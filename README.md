@@ -15,4 +15,4 @@ this is not permanent if you read the IMPORTANT notes
 
 
 
-### If you can't understand, Tell me to update the readme
+### If you can't understand, Tell me to update the Readme!
